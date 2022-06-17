@@ -1,4 +1,4 @@
-# DevOps Engineer Project 
+# Virus Total Client Project 
 This project is an application that summerizes reports provided by VirusTotal platform. This app allows users to upload a text file as a list of hashes and generate a report from the data provided by querying VirusTotal's public API fpr the scan report of the hashes. 
 ## Technologies used and deployment instructions
 The _command_ _line_ version is based on: Python(Flask), HTML, Redis, and Docker.
